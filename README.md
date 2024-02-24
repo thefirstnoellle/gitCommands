@@ -1,2 +1,2 @@
-# New to Git?
-Begin learning with these 10 basic commands!
+# gitCommands
+New to git? Begin learning with these 10 basic commands!
